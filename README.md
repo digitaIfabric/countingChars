@@ -3,13 +3,13 @@
 #### This function can return to us all the unique characters that exist in a string that is passed into the function
 
 
-''''
+````
 countLetters("lighthouse in the house")
-''''
+````
 
-####returns:
+#### returns:
 
-''''
+````
 {
   l: 1,
   i: 2,
@@ -22,4 +22,4 @@ countLetters("lighthouse in the house")
   e: 3,
   n: 1,
 }
-''''
+````
